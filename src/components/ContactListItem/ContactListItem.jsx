@@ -22,8 +22,8 @@ export const ContactListItem = ({ contact }) => {
       </StyledLink>
       <Text>Number: {number}</Text>
       <Text>Email: {email}</Text>
-      <Text>1 </Text>
-      <Text>12.04.2023</Text>
+      {/* <Text>1 </Text> */}
+      {/* <Text>12.04.2023</Text> */}
       <Button
         size="small"
         variant="contained"
